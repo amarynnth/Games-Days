@@ -359,7 +359,6 @@ app.get('/api/join', async (req, res) => {
   JOIN_URL = joinUrlFor(req);          // remember it so the board header matches
   const qr = await QRCode.toDataURL(JOIN_URL, { margin: 1, width: 640, color: { dark: '#070C2E', light: '#F5F1E6' } });
   res.json({ url: JOIN_URL, qr });
-  push();
 });
 
 app.get('/api/games', (_req, res) => {
