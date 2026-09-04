@@ -1,0 +1,282 @@
+{
+  "title": "Friday Jeopardy — August 21st (Game 1)",
+  "playedAt": "2026-08-21T17:37:32.148Z",
+  "durationMinutes": 18,
+  "playedInTeams": true,
+  "finalScores": [
+    {
+      "name": "Team A",
+      "score": 12400,
+      "members": [
+        "Devair",
+        "JillzM",
+        "JULEEN",
+        "Sherone",
+        "Moe"
+      ]
+    },
+    {
+      "name": "Team B",
+      "score": 3800,
+      "members": [
+        "Richard",
+        "Sabrine Wright",
+        "Khadijah",
+        "Celena",
+        "Kev"
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "JAMAICAN PROVERBS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Finish it: 'Every mickle mek a ___'",
+              "answer": "Muckle",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Finish it: 'Chicken merry, ___ deh near'",
+              "answer": "Hawk",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Finish it: 'One one coco full ___'",
+              "answer": "Basket",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Finish it: 'Wanti wanti cyaan get it, ___ nuh want it'",
+              "answer": "Getti getti",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Finish it: 'Cow never know the use a him tail till ___'",
+              "answer": "Fly time come",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "WEATHER & THE EARTH",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which instrument measures temperature?",
+              "answer": "A thermometer",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "What do you call the calm centre of a hurricane?",
+              "answer": "The eye",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Which months make up the Atlantic hurricane season?",
+              "answer": "June through November",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Which slow-moving slabs of the Earth's crust grind against each other to cause earthquakes?",
+              "answer": "Tectonic plates",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which instrument measures air pressure, and drops sharply when a storm is on the way?",
+              "answer": "A barometer",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "ON THE ROAD",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "On which side of the road do Jamaicans drive?",
+              "answer": "The left",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Which document must you carry to legally drive a car?",
+              "answer": "A driver's licence",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "What is the name for the shared minibuses and cars that run set routes across the island?",
+              "answer": "Route taxis",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "What does a flashing amber traffic light tell you to do?",
+              "answer": "Slow down and proceed with caution",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which toll highway connects Kingston to Ocho Rios through the mountains?",
+              "answer": "The North-South Highway",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "NUMBERS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "How many zeros are in one million?",
+              "answer": "Six zeros",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "What is twelve times twelve?",
+              "answer": "144",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "What do you call a number divisible only by one and itself?",
+              "answer": "A prime number",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "What is the value of pi to two decimal places?",
+              "answer": "3.14",
+              "dailyDouble": true,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "What do you call the longest side of a right-angled triangle?",
+              "answer": "The hypotenuse",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "SCHOOL DAYS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which exam do Jamaican students sit at the end of primary school?",
+              "answer": "PEP, the Primary Exit Profile",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Which exams do Caribbean students sit in fifth form?",
+              "answer": "CSEC, or CXC",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Which university has its Mona campus in Kingston?",
+              "answer": "The University of the West Indies",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "What do you call the yearly track and field competition between Jamaican high schools?",
+              "answer": "Champs",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which scholarship sends top Jamaican students to study at Oxford?",
+              "answer": "The Rhodes Scholarship",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "FRUITS & VEGETABLES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which vegetable is famous for making people cry while chopping it?",
+              "answer": "The onion",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Which fruit carries its seeds on the outside?",
+              "answer": "The strawberry",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Which vegetable did Popeye eat for strength?",
+              "answer": "Spinach",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Which fruit is technically a berry and forms the base of ketchup?",
+              "answer": "The tomato",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which purple-skinned Jamaican fruit gets its name from the shape its core makes when cut in half?",
+              "answer": "The star apple",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "NATIONAL SYMBOLS",
+    "clue": "Which tree bears Jamaica's national flower?",
+    "answer": "The lignum vitae"
+  }
+}

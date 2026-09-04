@@ -1,0 +1,200 @@
+{
+  "title": "Friday Jeopardy — August 21st (Game 2)",
+  "timers": {
+    "buzz": 8,
+    "answer": 10
+  },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "ISLAND LIFE",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What is Jamaica's national bird?",
+              "answer": "The doctor bird"
+            },
+            {
+              "value": 400,
+              "clue": "Which resort town is known for its seven-mile beach?",
+              "answer": "Negril"
+            },
+            {
+              "value": 600,
+              "clue": "Which parish is Montego Bay in?",
+              "answer": "St. James"
+            },
+            {
+              "value": 800,
+              "clue": "Which town served as Jamaica's capital before Kingston?",
+              "answer": "Spanish Town"
+            },
+            {
+              "value": 1000,
+              "clue": "What is the name of the highest point in Jamaica?",
+              "answer": "Blue Mountain Peak"
+            }
+          ]
+        },
+        {
+          "name": "HISTORY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which European explorer landed in Jamaica in 1494?",
+              "answer": "Christopher Columbus"
+            },
+            {
+              "value": 400,
+              "clue": "Which European country ruled Jamaica before the British took it?",
+              "answer": "Spain"
+            },
+            {
+              "value": 600,
+              "clue": "Which Jamaican National Hero led the Baptist War of 1831?",
+              "answer": "Samuel Sharpe"
+            },
+            {
+              "value": 800,
+              "clue": "Which ancient civilisation built the Colosseum?",
+              "answer": "The Romans"
+            },
+            {
+              "value": 1000,
+              "clue": "Which Jamaican port city was largely destroyed by an earthquake in 1692?",
+              "answer": "Port Royal"
+            }
+          ]
+        },
+        {
+          "name": "MUSIC LEGENDS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which Jamaican genre features deejays toasting over riddims?",
+              "answer": "Dancehall"
+            },
+            {
+              "value": 400,
+              "clue": "Which awards show is the biggest night in the American music industry?",
+              "answer": "The Grammys"
+            },
+            {
+              "value": 600,
+              "clue": "Which American singer is known as the King of Rock and Roll?",
+              "answer": "Elvis Presley"
+            },
+            {
+              "value": 800,
+              "clue": "Which singer is known as the Queen of Soul?",
+              "answer": "Aretha Franklin"
+            },
+            {
+              "value": 1000,
+              "clue": "Which singer is known as the Queen of Country music?",
+              "answer": "Dolly Parton"
+            }
+          ]
+        },
+        {
+          "name": "TECHNOLOGY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What do you call unwanted junk email?",
+              "answer": "Spam"
+            },
+            {
+              "value": 400,
+              "clue": "Which company makes the Windows operating system?",
+              "answer": "Microsoft"
+            },
+            {
+              "value": 600,
+              "clue": "What does PDF stand for?",
+              "answer": "Portable Document Format"
+            },
+            {
+              "value": 800,
+              "clue": "Which company owns both Instagram and WhatsApp?",
+              "answer": "Meta",
+              "dailyDouble": true
+            },
+            {
+              "value": 1000,
+              "clue": "What is the name for a program written to damage or disrupt a computer?",
+              "answer": "A virus, or malware"
+            }
+          ]
+        },
+        {
+          "name": "THE OCEAN",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What do you call a group of fish swimming together?",
+              "answer": "A school"
+            },
+            {
+              "value": 400,
+              "clue": "Which is the largest ocean on Earth?",
+              "answer": "The Pacific"
+            },
+            {
+              "value": 600,
+              "clue": "What is the name of the largest coral reef system in the world?",
+              "answer": "The Great Barrier Reef"
+            },
+            {
+              "value": 800,
+              "clue": "What causes the tides to rise and fall?",
+              "answer": "The moon's gravity"
+            },
+            {
+              "value": 1000,
+              "clue": "What is the deepest known point in the ocean called?",
+              "answer": "The Mariana Trench"
+            }
+          ]
+        },
+        {
+          "name": "HOLIDAYS & CELEBRATIONS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "On which date does Jamaica celebrate Independence Day?",
+              "answer": "August 6th"
+            },
+            {
+              "value": 400,
+              "clue": "Which holiday falls on the 26th of December?",
+              "answer": "Boxing Day"
+            },
+            {
+              "value": 600,
+              "clue": "On which date is Emancipation Day observed in Jamaica?",
+              "answer": "August 1st"
+            },
+            {
+              "value": 800,
+              "clue": "Which Jamaican Christmas tradition features masqueraders in bright costumes and masks?",
+              "answer": "Jonkonnu"
+            },
+            {
+              "value": 1000,
+              "clue": "On which day does Jamaica observe National Heroes Day?",
+              "answer": "The third Monday in October"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "FIRSTS",
+    "clue": "Who was the first woman to win a Nobel Prize?",
+    "answer": "Marie Curie"
+  }
+}

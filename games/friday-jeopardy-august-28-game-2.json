@@ -1,0 +1,200 @@
+{
+  "title": "Friday Jeopardy — August 28th (Game 2)",
+  "timers": {
+    "buzz": 8,
+    "answer": 10
+  },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "SOUND SYSTEM",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What do you call the person who picks and plays the tunes at a dance?",
+              "answer": "The selector, or DJ"
+            },
+            {
+              "value": 400,
+              "clue": "What is the name for the instrumental backing track that dozens of songs share?",
+              "answer": "A riddim"
+            },
+            {
+              "value": 600,
+              "clue": "Which Jamaican genre slowed ska right down in the mid-1960s?",
+              "answer": "Rocksteady"
+            },
+            {
+              "value": 800,
+              "clue": "What do you call a contest between two rival sound systems?",
+              "answer": "A sound clash"
+            },
+            {
+              "value": 1000,
+              "clue": "What do you call a one-off recording cut exclusively for a single sound system?",
+              "answer": "A dubplate"
+            }
+          ]
+        },
+        {
+          "name": "LANGUAGES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which language is spoken in Brazil?",
+              "answer": "Portuguese"
+            },
+            {
+              "value": 400,
+              "clue": "Which language has the most native speakers in the world?",
+              "answer": "Mandarin Chinese"
+            },
+            {
+              "value": 600,
+              "clue": "Which language gave us the words 'café' and 'croissant'?",
+              "answer": "French"
+            },
+            {
+              "value": 800,
+              "clue": "Which language is spoken across Egypt and much of the Middle East?",
+              "answer": "Arabic"
+            },
+            {
+              "value": 1000,
+              "clue": "Which ancient language is still used in Catholic church services?",
+              "answer": "Latin"
+            }
+          ]
+        },
+        {
+          "name": "TV SHOWS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which show has two families guessing the most popular survey answers?",
+              "answer": "Family Feud"
+            },
+            {
+              "value": 400,
+              "clue": "Which talent show lets judges send an act straight through with a golden buzzer?",
+              "answer": "America's Got Talent"
+            },
+            {
+              "value": 600,
+              "clue": "Which sitcom is set in a paper company office in Scranton?",
+              "answer": "The Office"
+            },
+            {
+              "value": 800,
+              "clue": "Which medical drama follows surgeons at a Seattle hospital?",
+              "answer": "Grey's Anatomy",
+              "dailyDouble": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which fantasy series centres on the fight for the Iron Throne?",
+              "answer": "Game of Thrones"
+            }
+          ]
+        },
+        {
+          "name": "PLANTS & TREES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which part of a plant draws water up from the soil?",
+              "answer": "The roots"
+            },
+            {
+              "value": 400,
+              "clue": "Which process do plants use to turn sunlight into food?",
+              "answer": "Photosynthesis"
+            },
+            {
+              "value": 600,
+              "clue": "Which plant folds its leaves shut the moment you touch it?",
+              "answer": "Shame-o-lady, or the sensitive plant"
+            },
+            {
+              "value": 800,
+              "clue": "Which desert plant stores water in its thick stem?",
+              "answer": "The cactus"
+            },
+            {
+              "value": 1000,
+              "clue": "Which tree is Jamaica's national tree?",
+              "answer": "The blue mahoe"
+            }
+          ]
+        },
+        {
+          "name": "FAMOUS DUOS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which cartoon pair are a cat forever chasing a mouse?",
+              "answer": "Tom and Jerry"
+            },
+            {
+              "value": 400,
+              "clue": "Which two brothers built and flew the first aeroplane?",
+              "answer": "The Wright brothers"
+            },
+            {
+              "value": 600,
+              "clue": "Which detective works alongside Dr Watson?",
+              "answer": "Sherlock Holmes"
+            },
+            {
+              "value": 800,
+              "clue": "Which yellow sponge and pink starfish are best friends under the sea?",
+              "answer": "SpongeBob and Patrick"
+            },
+            {
+              "value": 1000,
+              "clue": "Which green ogre and talking donkey headline an animated film series?",
+              "answer": "Shrek and Donkey"
+            }
+          ]
+        },
+        {
+          "name": "UP IN THE AIR",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What do you call the person who flies the plane?",
+              "answer": "The pilot"
+            },
+            {
+              "value": 400,
+              "clue": "Which document do you need to travel to another country?",
+              "answer": "A passport"
+            },
+            {
+              "value": 600,
+              "clue": "What is the name of Kingston's international airport?",
+              "answer": "Norman Manley International Airport"
+            },
+            {
+              "value": 800,
+              "clue": "What do travellers call the tiredness that comes from crossing several time zones?",
+              "answer": "Jet lag"
+            },
+            {
+              "value": 1000,
+              "clue": "What is the flight recorder recovered after a crash commonly called?",
+              "answer": "The black box"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "SCIENCE FIRSTS",
+    "clue": "Which scientist worked out the laws of gravity after watching an apple fall?",
+    "answer": "Isaac Newton"
+  }
+}

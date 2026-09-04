@@ -1,0 +1,81 @@
+{
+  "title": "Friday Jeopardy — August 7th (Game 2)",
+  "timers": { "buzz": 8, "answer": 10 },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "JAMAICAN ENGLISH",
+          "clues": [
+            { "value": 200, "clue": "If bad luck follows you everywhere you go, what do people say you are?", "answer": "Salt" },
+            { "value": 400, "clue": "What word means lewd, and is used for conduct, lyrics or conversation that goes well beyond what the norm expects?", "answer": "Slack" },
+            { "value": 600, "clue": "What do you call the neighbour who is too nosy and has an opinion on business that is not theirs?", "answer": "Fast, pronounced 'fass'" },
+            { "value": 800, "clue": "If a child looks exactly like their father, what do we say the child does?", "answer": "Favour him" },
+            { "value": 1000, "clue": "What do you call somebody newly rich that the district says did not come up through the ranks?", "answer": "A hurry-come-up" }
+          ]
+        },
+        {
+          "name": "THE NEW MILLENNIUM",
+          "clues": [
+            { "value": 200, "clue": "Which Nokia phone from 2000 became famous for being almost impossible to break?", "answer": "The Nokia 3310" },
+            { "value": 400, "clue": "Which Apple device launched in 2001 promising a thousand songs in your pocket?", "answer": "The iPod" },
+            { "value": 600, "clue": "Which boy band sang 'Bye Bye Bye' in 2000?", "answer": "NSYNC" },
+            {
+              "value": 800,
+              "clue": "Which website did Mark Zuckerberg launch from his dorm room in 2004?",
+              "answer": "Facebook",
+              "dailyDouble": true
+            },
+            { "value": 1000, "clue": "Which computer bug had the whole world nervous on New Year's Eve 1999?", "answer": "Y2K, the millennium bug" }
+          ]
+        },
+        {
+          "name": "SOCIAL STUDIES",
+          "clues": [
+            { "value": 200, "clue": "In which year did Jamaica gain independence?", "answer": "1962" },
+            { "value": 400, "clue": "What are the three colours of the Jamaican flag?", "answer": "Black, green and gold" },
+            { "value": 600, "clue": "How many parishes does Jamaica have?", "answer": "Fourteen" },
+            { "value": 800, "clue": "Who was Jamaica's first Prime Minister after independence?", "answer": "Alexander Bustamante" },
+            { "value": 1000, "clue": "Which National Hero led the Windward Maroons against the British?", "answer": "Nanny of the Maroons" }
+          ]
+        },
+        {
+          "name": "CARTOONS & FAIRYTALES",
+          "clues": [
+            { "value": 200, "clue": "Which fairytale character loses a glass slipper at midnight?", "answer": "Cinderella" },
+            { "value": 400, "clue": "Which cartoon family lives in the town of Springfield?", "answer": "The Simpsons" },
+            { "value": 600, "clue": "Which little girl helps herself to the porridge of three bears?", "answer": "Goldilocks" },
+            { "value": 800, "clue": "What happens to Pinocchio's nose whenever he tells a lie?", "answer": "It grows longer" },
+            { "value": 1000, "clue": "In Beauty and the Beast, what is the name of the candlestick?", "answer": "Lumière" }
+          ]
+        },
+        {
+          "name": "FAMOUS NAMES",
+          "clues": [
+            { "value": 200, "clue": "Who painted the Mona Lisa?", "answer": "Leonardo da Vinci" },
+            { "value": 400, "clue": "Who wrote Romeo and Juliet?", "answer": "William Shakespeare" },
+            { "value": 600, "clue": "Which scientist came up with the theory of relativity?", "answer": "Albert Einstein" },
+            { "value": 800, "clue": "Which South African leader spent 27 years in prison before becoming president?", "answer": "Nelson Mandela" },
+            { "value": 1000, "clue": "Which Jamaican-born nurse cared for wounded soldiers during the Crimean War?", "answer": "Mary Seacole" }
+          ]
+        },
+        {
+          "name": "HOLLYWOOD",
+          "clues": [
+            { "value": 200, "clue": "Which 1997 film starred Leonardo DiCaprio and Kate Winslet aboard a sinking ship?", "answer": "Titanic" },
+            { "value": 400, "clue": "Which actor plays Iron Man in the Marvel films?", "answer": "Robert Downey Jr." },
+            { "value": 600, "clue": "What is the name of the gold statuette handed out at Hollywood's biggest awards night?", "answer": "The Oscar" },
+            { "value": 800, "clue": "Which animation studio has a hopping desk lamp in its logo?", "answer": "Pixar" },
+            { "value": 1000, "clue": "Which 1967 film starred Warren Beatty and Faye Dunaway as a pair of Depression-era bank robbers?", "answer": "Bonnie and Clyde" }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "THE CALENDAR",
+    "clue": "Which is the only month of the year that can pass without a single full moon?",
+    "answer": "February"
+  }
+}

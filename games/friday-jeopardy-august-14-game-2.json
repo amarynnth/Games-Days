@@ -1,0 +1,200 @@
+{
+  "title": "Friday Jeopardy — August 14th (Game 2: Mixed Bag)",
+  "timers": {
+    "buzz": 8,
+    "answer": 10
+  },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "YAAD TALK",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What is the Jamaican word for a ghost or spirit?",
+              "answer": "A duppy"
+            },
+            {
+              "value": 400,
+              "clue": "What word describes something untidy, done any old how by somebody who had somewhere else to be?",
+              "answer": "Chaka-chaka"
+            },
+            {
+              "value": 600,
+              "clue": "What word means fraud, as in a deal or a man collecting money he has no intention of returning?",
+              "answer": "Bandulu"
+            },
+            {
+              "value": 800,
+              "clue": "What word describes feeble and drooping, like a banana leaf gone brown at the edges?",
+              "answer": "Fenke-fenke"
+            },
+            {
+              "value": 1000,
+              "clue": "What is the word for the moment a sweet thing turns on you, when the second slice of black cake stops being a pleasure?",
+              "answer": "Cliding"
+            }
+          ]
+        },
+        {
+          "name": "THE 80s & 90s",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What did you have to rewind before returning it to the video store?",
+              "answer": "A VHS tape"
+            },
+            {
+              "value": 400,
+              "clue": "Which company released the first Super Mario Bros game?",
+              "answer": "Nintendo"
+            },
+            {
+              "value": 600,
+              "clue": "Which 1990s craze had children collecting small plush animals with heart-shaped tags?",
+              "answer": "Beanie Babies"
+            },
+            {
+              "value": 800,
+              "clue": "Which Sony device let you carry cassettes around in your pocket?",
+              "answer": "The Walkman"
+            },
+            {
+              "value": 1000,
+              "clue": "Which girl group had a 1995 hit with 'Waterfalls'?",
+              "answer": "TLC"
+            }
+          ]
+        },
+        {
+          "name": "CARIBBEAN NEIGHBOURS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which Caribbean island is famous for Carnival and the steelpan?",
+              "answer": "Trinidad"
+            },
+            {
+              "value": 400,
+              "clue": "What is the capital of Barbados?",
+              "answer": "Bridgetown"
+            },
+            {
+              "value": 600,
+              "clue": "Which Caribbean nation has the largest population?",
+              "answer": "Cuba"
+            },
+            {
+              "value": 800,
+              "clue": "Which small Caribbean island is split between a French side and a Dutch side?",
+              "answer": "St. Martin, or Sint Maarten"
+            },
+            {
+              "value": 1000,
+              "clue": "What does CARICOM stand for?",
+              "answer": "The Caribbean Community"
+            }
+          ]
+        },
+        {
+          "name": "AT THE MOVIES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which animated film follows a clownfish searching the ocean for his son?",
+              "answer": "Finding Nemo"
+            },
+            {
+              "value": 400,
+              "clue": "In Jaws, which animal terrorises the beach?",
+              "answer": "A great white shark"
+            },
+            {
+              "value": 600,
+              "clue": "Which 1993 film brought dinosaurs back to life on an island?",
+              "answer": "Jurassic Park"
+            },
+            {
+              "value": 800,
+              "clue": "In Toy Story, what is the name of the cowboy doll?",
+              "answer": "Woody",
+              "dailyDouble": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which 2018 Marvel film was set in the kingdom of Wakanda?",
+              "answer": "Black Panther"
+            }
+          ]
+        },
+        {
+          "name": "SCIENCE",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which gas makes up most of the air we breathe?",
+              "answer": "Nitrogen"
+            },
+            {
+              "value": 400,
+              "clue": "Which organ pumps blood around the body?",
+              "answer": "The heart"
+            },
+            {
+              "value": 600,
+              "clue": "What is the centre of an atom called?",
+              "answer": "The nucleus"
+            },
+            {
+              "value": 800,
+              "clue": "Which blood cells fight infection in the body?",
+              "answer": "White blood cells"
+            },
+            {
+              "value": 1000,
+              "clue": "What is the chemical symbol for gold?",
+              "answer": "Au"
+            }
+          ]
+        },
+        {
+          "name": "MIXED BAG",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "How many degrees are in a full circle?",
+              "answer": "360"
+            },
+            {
+              "value": 400,
+              "clue": "What is the currency of the United Kingdom?",
+              "answer": "The pound"
+            },
+            {
+              "value": 600,
+              "clue": "How many players are on a basketball team on the court?",
+              "answer": "Five"
+            },
+            {
+              "value": 800,
+              "clue": "What is the tallest growing grass in the world?",
+              "answer": "Bamboo"
+            },
+            {
+              "value": 1000,
+              "clue": "Which is the longest bone in the human body?",
+              "answer": "The femur, or thigh bone"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "MUSIC LEGENDS",
+    "clue": "Which Jamaican artist recorded 'Legend', the best-selling reggae album of all time?",
+    "answer": "Bob Marley"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "title": "Friday Jeopardy — August 7th",
+  "playedAt": "2026-08-07T17:36:25.672Z",
+  "durationMinutes": 15,
+  "playedInTeams": true,
+  "finalScores": [
+    {
+      "name": "CSU+JILL",
+      "score": 13200,
+      "members": [
+        "Juleen",
+        "Jillian"
+      ]
+    },
+    {
+      "name": "QAWFM",
+      "score": 200,
+      "members": [
+        "Richard",
+        "Sabrine"
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "SPEAK PATOIS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which Patois word means to eat?",
+              "answer": "Nyam",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Which Patois word means thin or skinny?",
+              "answer": "Maaga",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Which Patois word describes someone greedy who piles their plate too high?",
+              "answer": "Craven",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Which Patois word means the good manners your family raised you with?",
+              "answer": "Broughtupsy",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which Patois word means long, enjoyable talk about other people's business?",
+              "answer": "Labrish",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "FOOD & DRINK",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What is Jamaica's national fruit?",
+              "answer": "Ackee",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Which bean is chocolate made from?",
+              "answer": "The cocoa bean",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Which fruit is the main ingredient in guacamole?",
+              "answer": "The avocado",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Which spice is the most expensive in the world by weight?",
+              "answer": "Saffron",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which nut is marzipan made from?",
+              "answer": "Almonds",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "THE HUMAN BODY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "How many bones are in the adult human body?",
+              "answer": "206",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Which vitamin does your skin make from sunlight?",
+              "answer": "Vitamin D",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Which blood type is called the universal donor?",
+              "answer": "O negative",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Which organ makes insulin?",
+              "answer": "The pancreas",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Where in the body would you find the smallest bone?",
+              "answer": "In the ear",
+              "dailyDouble": false,
+              "used": false
+            }
+          ]
+        },
+        {
+          "name": "MUSIC",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What was the name of Bob Marley's backing band?",
+              "answer": "The Wailers",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "How many strings does a violin have?",
+              "answer": "Four",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Which Jamaican genre came before reggae and has a fast, offbeat rhythm?",
+              "answer": "Ska",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Which singer named her albums 19, 21, 25 and 30?",
+              "answer": "Adele",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "What is the best-selling album of all time?",
+              "answer": "Thriller, by Michael Jackson",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "SCREEN TIME",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "In The Wizard of Oz, what colour is the brick road?",
+              "answer": "Yellow",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "What is the name of the school Harry Potter attends?",
+              "answer": "Hogwarts",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Which Netflix show features a place called the Upside Down?",
+              "answer": "Stranger Things",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Which movie gave us the line 'I'll be back'?",
+              "answer": "The Terminator",
+              "dailyDouble": true,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "What was the first full-length animated film Disney ever made?",
+              "answer": "Snow White and the Seven Dwarfs",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "GRAB BAG",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "How many players does a football team have on the field?",
+              "answer": "Eleven",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "What is the currency of Japan?",
+              "answer": "The yen",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "In chess, which piece moves only diagonally?",
+              "answer": "The bishop",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "What is the tallest building in the world?",
+              "answer": "The Burj Khalifa, in Dubai",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "How many hearts does an octopus have?",
+              "answer": "Three",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "JAMAICAN FIRSTS",
+    "clue": "Who was the first Jamaican to win an Olympic gold medal?",
+    "answer": "Arthur Wint, in the 400 metres at London 1948"
+  }
+}

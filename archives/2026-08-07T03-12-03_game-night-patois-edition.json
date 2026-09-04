@@ -1,0 +1,264 @@
+{
+  "title": "Game Night — Patois Edition",
+  "playedAt": "2026-08-07T03:12:03.350Z",
+  "durationMinutes": 9,
+  "playedInTeams": false,
+  "finalScores": [
+    {
+      "name": "Ama",
+      "score": 800
+    }
+  ],
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "SPEAK PATOIS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This West African import means simply 'to eat', though it hints at hunger far more than good table manners",
+              "answer": "Nyam",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Descended from the English word 'meagre', this term for skinny has never once been meant as a compliment",
+              "answer": "Maaga",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Greedy beyond all reason — the person whose plate is stacked far higher than the plate can hold",
+              "answer": "Craven",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "The home training your family raised you with, which everybody notices the moment somebody is missing it",
+              "answer": "Broughtupsy",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Long, easy, thoroughly enjoyable talk about everybody else's business — and 'gossip' would be far too mean a word for it",
+              "answer": "Labrish",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "WORLD GEOGRAPHY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This is the largest and deepest ocean on Earth",
+              "answer": "The Pacific Ocean",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Mount Kilimanjaro, Africa's highest peak, stands in this country",
+              "answer": "Tanzania",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "At roughly 49 hectares, this is the smallest country in the world by land area",
+              "answer": "Vatican City",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "This narrow strait separates Spain from Morocco and links the Atlantic to the Mediterranean",
+              "answer": "The Strait of Gibraltar",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Lake Titicaca, the highest navigable lake in the world, sits on the border between these two South American countries",
+              "answer": "Peru and Bolivia",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "THE HUMAN BODY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This is the number of bones in the average adult human skeleton",
+              "answer": "206",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Your skin produces this vitamin when it is exposed to sunlight",
+              "answer": "Vitamin D",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "People with this blood type are known as universal donors",
+              "answer": "O negative",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "This organ, tucked behind the stomach, produces insulin",
+              "answer": "The pancreas",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "The smallest bone in the human body sits inside the ear and is named for a stirrup",
+              "answer": "The stapes",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "MUSIC",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Bob Marley's backing band went by this name",
+              "answer": "The Wailers",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "A standard violin has this many strings",
+              "answer": "Four",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "This Jamaican genre came before rocksteady and reggae, known for its fast, offbeat rhythm",
+              "answer": "Ska",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "This British singer named her albums after her age, including 21 and 30",
+              "answer": "Adele",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Released in 1982, this is the best-selling album of all time",
+              "answer": "Thriller, by Michael Jackson",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "SCREEN TIME",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "In The Wizard of Oz, Dorothy is told to follow a road of this colour",
+              "answer": "Yellow",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Harry Potter and his classmates attend this school of witchcraft and wizardry",
+              "answer": "Hogwarts",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "This Netflix series set in Hawkins, Indiana features an alternate dimension called the Upside Down",
+              "answer": "Stranger Things",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "In 2020 this South Korean film became the first non-English-language movie to win Best Picture",
+              "answer": "Parasite",
+              "dailyDouble": true,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Released in 1937, this was Walt Disney's first full-length animated feature",
+              "answer": "Snow White and the Seven Dwarfs",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "GRAB BAG",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This is how many players each football team puts on the field at kick-off",
+              "answer": "Eleven",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "This is the currency of Japan",
+              "answer": "The yen",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "In chess, this is the only piece that moves diagonally and nothing else",
+              "answer": "The bishop",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Russia stretches across this many time zones",
+              "answer": "Eleven",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "The word 'laser' is an acronym — it stands for Light Amplification by Stimulated Emission of this",
+              "answer": "Radiation",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "JAMAICAN FIRSTS",
+    "clue": "At the 1948 London Games this sprinter won the 400 metres to become the first Jamaican ever to take Olympic gold",
+    "answer": "Arthur Wint"
+  }
+}

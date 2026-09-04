@@ -1,0 +1,81 @@
+{
+  "title": "Friday Jeopardy — August 7th",
+  "timers": { "buzz": 8, "answer": 10 },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "SPEAK PATOIS",
+          "clues": [
+            { "value": 200, "clue": "Which Patois word means to eat?", "answer": "Nyam" },
+            { "value": 400, "clue": "Which Patois word means thin or skinny?", "answer": "Maaga" },
+            { "value": 600, "clue": "Which Patois word describes someone greedy who piles their plate too high?", "answer": "Craven" },
+            { "value": 800, "clue": "Which Patois word means the good manners your family raised you with?", "answer": "Broughtupsy" },
+            { "value": 1000, "clue": "Which Patois word means long, enjoyable talk about other people's business?", "answer": "Labrish" }
+          ]
+        },
+        {
+          "name": "FOOD & DRINK",
+          "clues": [
+            { "value": 200, "clue": "What is Jamaica's national fruit?", "answer": "Ackee" },
+            { "value": 400, "clue": "Which bean is chocolate made from?", "answer": "The cocoa bean" },
+            { "value": 600, "clue": "Which fruit is the main ingredient in guacamole?", "answer": "The avocado" },
+            { "value": 800, "clue": "Which spice is the most expensive in the world by weight?", "answer": "Saffron" },
+            { "value": 1000, "clue": "Which nut is marzipan made from?", "answer": "Almonds" }
+          ]
+        },
+        {
+          "name": "THE HUMAN BODY",
+          "clues": [
+            { "value": 200, "clue": "How many bones are in the adult human body?", "answer": "206" },
+            { "value": 400, "clue": "Which vitamin does your skin make from sunlight?", "answer": "Vitamin D" },
+            { "value": 600, "clue": "Which blood type is called the universal donor?", "answer": "O negative" },
+            { "value": 800, "clue": "Which organ makes insulin?", "answer": "The pancreas" },
+            { "value": 1000, "clue": "Where in the body would you find the smallest bone?", "answer": "In the ear" }
+          ]
+        },
+        {
+          "name": "MUSIC",
+          "clues": [
+            { "value": 200, "clue": "What was the name of Bob Marley's backing band?", "answer": "The Wailers" },
+            { "value": 400, "clue": "How many strings does a violin have?", "answer": "Four" },
+            { "value": 600, "clue": "Which Jamaican genre came before reggae and has a fast, offbeat rhythm?", "answer": "Ska" },
+            { "value": 800, "clue": "Which singer named her albums 19, 21, 25 and 30?", "answer": "Adele" },
+            { "value": 1000, "clue": "What is the best-selling album of all time?", "answer": "Thriller, by Michael Jackson" }
+          ]
+        },
+        {
+          "name": "SCREEN TIME",
+          "clues": [
+            { "value": 200, "clue": "In The Wizard of Oz, what colour is the brick road?", "answer": "Yellow" },
+            { "value": 400, "clue": "What is the name of the school Harry Potter attends?", "answer": "Hogwarts" },
+            { "value": 600, "clue": "Which Netflix show features a place called the Upside Down?", "answer": "Stranger Things" },
+            {
+              "value": 800,
+              "clue": "Which movie gave us the line 'I'll be back'?",
+              "answer": "The Terminator",
+              "dailyDouble": true
+            },
+            { "value": 1000, "clue": "What was the first full-length animated film Disney ever made?", "answer": "Snow White and the Seven Dwarfs" }
+          ]
+        },
+        {
+          "name": "GRAB BAG",
+          "clues": [
+            { "value": 200, "clue": "How many players does a football team have on the field?", "answer": "Eleven" },
+            { "value": 400, "clue": "What is the currency of Japan?", "answer": "The yen" },
+            { "value": 600, "clue": "In chess, which piece moves only diagonally?", "answer": "The bishop" },
+            { "value": 800, "clue": "What is the tallest building in the world?", "answer": "The Burj Khalifa, in Dubai" },
+            { "value": 1000, "clue": "How many hearts does an octopus have?", "answer": "Three" }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "JAMAICAN FIRSTS",
+    "clue": "Who was the first Jamaican to win an Olympic gold medal?",
+    "answer": "Arthur Wint, in the 400 metres at London 1948"
+  }
+}

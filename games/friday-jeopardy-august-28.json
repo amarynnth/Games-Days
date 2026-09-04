@@ -1,0 +1,200 @@
+{
+  "title": "Friday Jeopardy — August 28th (Game 1)",
+  "timers": {
+    "buzz": 8,
+    "answer": 10
+  },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "SUNDAY DINNER",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which side dish of rice cooked with kidney beans is on every Sunday plate?",
+              "answer": "Rice and peas"
+            },
+            {
+              "value": 400,
+              "clue": "Which sweet fried dumpling is served alongside fried fish?",
+              "answer": "Festival"
+            },
+            {
+              "value": 600,
+              "clue": "Which deep red drink is brewed from hibiscus and served at Christmas?",
+              "answer": "Sorrel"
+            },
+            {
+              "value": 800,
+              "clue": "Which cut of beef is stewed slowly with butter beans?",
+              "answer": "Oxtail"
+            },
+            {
+              "value": 1000,
+              "clue": "Which ingredient gives rice and peas its rich, creamy flavour?",
+              "answer": "Coconut milk"
+            }
+          ]
+        },
+        {
+          "name": "BIRDS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which bird is the universal symbol of peace?",
+              "answer": "The dove"
+            },
+            {
+              "value": 400,
+              "clue": "Which flightless bird lays the largest egg of any living bird?",
+              "answer": "The ostrich"
+            },
+            {
+              "value": 600,
+              "clue": "Which bird is the only one that can fly backwards?",
+              "answer": "The hummingbird"
+            },
+            {
+              "value": 800,
+              "clue": "Which nocturnal bird can turn its head almost the whole way around?",
+              "answer": "The owl"
+            },
+            {
+              "value": 1000,
+              "clue": "Which black-and-white sea bird has a bright orange beak and lives in cold northern waters?",
+              "answer": "The puffin"
+            }
+          ]
+        },
+        {
+          "name": "FIRST AID & SAFETY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which colour is a fire extinguisher normally painted?",
+              "answer": "Red"
+            },
+            {
+              "value": 400,
+              "clue": "What should you do if your clothes catch fire?",
+              "answer": "Stop, drop and roll"
+            },
+            {
+              "value": 600,
+              "clue": "Which box of supplies should every home and car keep for treating small injuries?",
+              "answer": "A first aid kit"
+            },
+            {
+              "value": 800,
+              "clue": "Which number do you dial for the police in Jamaica?",
+              "answer": "119"
+            },
+            {
+              "value": 1000,
+              "clue": "What does the machine known as an AED do?",
+              "answer": "Shocks the heart back into rhythm"
+            }
+          ]
+        },
+        {
+          "name": "CLOTHING & STYLE",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What do you call a jacket and trousers cut from the same cloth?",
+              "answer": "A suit"
+            },
+            {
+              "value": 400,
+              "clue": "Which fabric is spun by worms?",
+              "answer": "Silk"
+            },
+            {
+              "value": 600,
+              "clue": "Which denim garment was patented by Levi Strauss?",
+              "answer": "Jeans"
+            },
+            {
+              "value": 800,
+              "clue": "Which red-and-white checked cloth is worn for Jamaican folk costume?",
+              "answer": "Bandana cloth"
+            },
+            {
+              "value": 1000,
+              "clue": "Which country is home to the fashion houses Gucci, Prada and Versace?",
+              "answer": "Italy"
+            }
+          ]
+        },
+        {
+          "name": "MONEY MATTERS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What do you call money set aside for the future?",
+              "answer": "Savings"
+            },
+            {
+              "value": 400,
+              "clue": "What does ATM stand for?",
+              "answer": "Automated Teller Machine"
+            },
+            {
+              "value": 600,
+              "clue": "What do banks charge you for borrowing money?",
+              "answer": "Interest"
+            },
+            {
+              "value": 800,
+              "clue": "What do you call the steady rise in prices that makes money buy less over time?",
+              "answer": "Inflation",
+              "dailyDouble": true
+            },
+            {
+              "value": 1000,
+              "clue": "What is the name for a plan that tracks what you earn against what you spend?",
+              "answer": "A budget"
+            }
+          ]
+        },
+        {
+          "name": "GAMES & PUZZLES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "How many cards are in a standard deck without the jokers?",
+              "answer": "Fifty-two"
+            },
+            {
+              "value": 400,
+              "clue": "Which tile is the most prized opening play in a game of dominoes?",
+              "answer": "The double six"
+            },
+            {
+              "value": 600,
+              "clue": "How many pieces does each player start with in chess?",
+              "answer": "Sixteen"
+            },
+            {
+              "value": 800,
+              "clue": "Which number puzzle asks you to fill a grid so every row, column and box holds one through nine?",
+              "answer": "Sudoku"
+            },
+            {
+              "value": 1000,
+              "clue": "Which Chinese tile game is played with 144 tiles?",
+              "answer": "Mahjong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "NATIONAL PRIDE",
+    "clue": "Which Jamaican sprinter won the 100 metres gold at three straight Olympic Games?",
+    "answer": "Usain Bolt"
+  }
+}

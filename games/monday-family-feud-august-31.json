@@ -1,0 +1,848 @@
+{
+  "type": "feud",
+  "title": "Monday Family Feud — August 31st",
+  "timers": {
+    "buzz": 8,
+    "answer": 10
+  },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "questions": [
+        {
+          "prompt": "Name something a Jamaican mother sends you to the shop for",
+          "multiplier": 1,
+          "answers": [
+            {
+              "text": "Bread",
+              "points": 31,
+              "alt": [
+                "hard dough",
+                "hard dough bread",
+                "bulla"
+              ]
+            },
+            {
+              "text": "Milk",
+              "points": 22,
+              "alt": [
+                "condensed milk",
+                "box milk"
+              ]
+            },
+            {
+              "text": "Sugar",
+              "points": 17,
+              "alt": [
+                "brown sugar"
+              ]
+            },
+            {
+              "text": "Rice",
+              "points": 12,
+              "alt": [
+                "white rice",
+                "rice grain",
+                "bag of rice"
+              ]
+            },
+            {
+              "text": "Butter",
+              "points": 9,
+              "alt": [
+                "margarine"
+              ]
+            },
+            {
+              "text": "Onion",
+              "points": 5,
+              "alt": [
+                "onions",
+                "escallion"
+              ]
+            }
+          ]
+        },
+        {
+          "prompt": "Name something people always do the moment they get home from work",
+          "multiplier": 1,
+          "answers": [
+            {
+              "text": "Take off their shoes",
+              "points": 34,
+              "alt": [
+                "shoes off",
+                "kick off shoes",
+                "take off shoes"
+              ]
+            },
+            {
+              "text": "Shower",
+              "points": 24,
+              "alt": [
+                "bathe",
+                "take a bath",
+                "wash off"
+              ]
+            },
+            {
+              "text": "Check the fridge",
+              "points": 16,
+              "alt": [
+                "look in the fridge",
+                "fridge",
+                "find food"
+              ]
+            },
+            {
+              "text": "Turn on the TV",
+              "points": 13,
+              "alt": [
+                "tv",
+                "put on the tv",
+                "watch tv"
+              ]
+            },
+            {
+              "text": "Lie down",
+              "points": 8,
+              "alt": [
+                "sit down",
+                "rest",
+                "flop down",
+                "nap"
+              ]
+            }
+          ]
+        },
+        {
+          "prompt": "Name something you would find in a Jamaican grandmother's living room",
+          "multiplier": 1,
+          "answers": [
+            {
+              "text": "Plastic-covered furniture",
+              "points": 29,
+              "alt": [
+                "plastic on the couch",
+                "plastic",
+                "couch cover"
+              ]
+            },
+            {
+              "text": "Family photos",
+              "points": 23,
+              "alt": [
+                "photos",
+                "pictures",
+                "portraits"
+              ]
+            },
+            {
+              "text": "A wall unit",
+              "points": 18,
+              "alt": [
+                "wall unit",
+                "cabinet",
+                "china cabinet",
+                "what not",
+                "whatnot",
+                "what-not"
+              ]
+            },
+            {
+              "text": "Doilies",
+              "points": 14,
+              "alt": [
+                "doily",
+                "lace"
+              ]
+            },
+            {
+              "text": "Artificial flowers",
+              "points": 10,
+              "alt": [
+                "fake flowers",
+                "plastic flowers"
+              ]
+            },
+            {
+              "text": "A Bible",
+              "points": 6,
+              "alt": [
+                "bible",
+                "scripture"
+              ]
+            }
+          ]
+        },
+        {
+          "prompt": "Name something people do while stuck in traffic",
+          "multiplier": 1,
+          "answers": [
+            {
+              "text": "Listen to music",
+              "points": 34,
+              "alt": [
+                "music",
+                "radio",
+                "songs",
+                "turn up the radio"
+              ]
+            },
+            {
+              "text": "Blow the horn",
+              "points": 23,
+              "alt": [
+                "horn",
+                "honk",
+                "beep",
+                "blow horn"
+              ]
+            },
+            {
+              "text": "Eat or drink something",
+              "points": 17,
+              "alt": [
+                "eat",
+                "drink",
+                "snack",
+                "food"
+              ]
+            },
+            {
+              "text": "Call somebody",
+              "points": 14,
+              "alt": [
+                "call",
+                "phone call",
+                "talk on the phone"
+              ]
+            },
+            {
+              "text": "Fix their hair or makeup",
+              "points": 12,
+              "alt": [
+                "hair",
+                "makeup",
+                "mirror",
+                "fix up"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Round 2 — double points",
+      "multiplier": 2,
+      "questions": [
+        {
+          "prompt": "Name something people argue about at a family gathering",
+          "answers": [
+            {
+              "text": "Politics",
+              "points": 30,
+              "alt": [
+                "politics",
+                "election",
+                "party"
+              ]
+            },
+            {
+              "text": "Money",
+              "points": 24,
+              "alt": [
+                "cash",
+                "a loan"
+              ]
+            },
+            {
+              "text": "Who is cooking",
+              "points": 18,
+              "alt": [
+                "cooking",
+                "the food",
+                "who cook"
+              ]
+            },
+            {
+              "text": "Old grudges",
+              "points": 15,
+              "alt": [
+                "old story",
+                "past thing",
+                "grudge"
+              ]
+            },
+            {
+              "text": "Sports",
+              "points": 9,
+              "alt": [
+                "football",
+                "cricket",
+                "the match"
+              ]
+            }
+          ]
+        },
+        {
+          "prompt": "Name something you take to the beach",
+          "answers": [
+            {
+              "text": "Towel",
+              "points": 33,
+              "alt": [
+                "beach towel",
+                "towels"
+              ]
+            },
+            {
+              "text": "Cooler",
+              "points": 25,
+              "alt": [
+                "igloo",
+                "ice box",
+                "drinks"
+              ]
+            },
+            {
+              "text": "Sunscreen",
+              "points": 17,
+              "alt": [
+                "sun block",
+                "sunblock",
+                "lotion"
+              ]
+            },
+            {
+              "text": "Speaker",
+              "points": 13,
+              "alt": [
+                "box",
+                "music",
+                "bluetooth speaker"
+              ]
+            },
+            {
+              "text": "Umbrella",
+              "points": 8,
+              "alt": [
+                "beach umbrella",
+                "tent",
+                "shade"
+              ]
+            }
+          ]
+        },
+        {
+          "prompt": "Name something that instantly ruins your morning",
+          "answers": [
+            {
+              "text": "No water in the pipe",
+              "points": 28,
+              "alt": [
+                "no water",
+                "water lock off",
+                "pipe dry"
+              ]
+            },
+            {
+              "text": "Spilling your coffee",
+              "points": 22,
+              "alt": [
+                "spill coffee",
+                "spill your drink"
+              ]
+            },
+            {
+              "text": "A dead phone battery",
+              "points": 19,
+              "alt": [
+                "phone dead",
+                "battery dead",
+                "no charge"
+              ]
+            },
+            {
+              "text": "Rain when you have no umbrella",
+              "points": 16,
+              "alt": [
+                "rain",
+                "get wet",
+                "no umbrella"
+              ]
+            },
+            {
+              "text": "A power cut",
+              "points": 11,
+              "alt": [
+                "light gone",
+                "no light",
+                "blackout",
+                "power outage"
+              ]
+            }
+          ]
+        },
+        {
+          "prompt": "Name something people keep long after it stops working",
+          "answers": [
+            {
+              "text": "An old phone",
+              "points": 32,
+              "alt": [
+                "old phone",
+                "broken phone"
+              ]
+            },
+            {
+              "text": "A broken watch",
+              "points": 21,
+              "alt": [
+                "watch",
+                "old watch"
+              ]
+            },
+            {
+              "text": "Old shoes",
+              "points": 18,
+              "alt": [
+                "shoes",
+                "worn out shoes"
+              ]
+            },
+            {
+              "text": "A car",
+              "points": 14,
+              "alt": [
+                "old car",
+                "car"
+              ]
+            },
+            {
+              "text": "A remote control",
+              "points": 9,
+              "alt": [
+                "remote",
+                "the remote"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Round 3 — triple points",
+      "multiplier": 3,
+      "questions": [
+        {
+          "prompt": "Name something you would never lend to a co-worker",
+          "answers": [
+            {
+              "text": "Money",
+              "points": 38,
+              "alt": [
+                "cash",
+                "a loan"
+              ]
+            },
+            {
+              "text": "Your car",
+              "points": 27,
+              "alt": [
+                "car",
+                "vehicle"
+              ]
+            },
+            {
+              "text": "Your phone",
+              "points": 16,
+              "alt": [
+                "phone",
+                "cell phone"
+              ]
+            },
+            {
+              "text": "Your lunch container",
+              "points": 11,
+              "alt": [
+                "container",
+                "tupperware",
+                "lunch kit"
+              ]
+            },
+            {
+              "text": "Your charger",
+              "points": 7,
+              "alt": [
+                "charger",
+                "cord",
+                "cable"
+              ]
+            }
+          ]
+        },
+        {
+          "prompt": "Name something that makes a Sunday feel like Sunday",
+          "answers": [
+            {
+              "text": "Big dinner",
+              "points": 35,
+              "alt": [
+                "sunday dinner",
+                "big cooking",
+                "rice and peas"
+              ]
+            },
+            {
+              "text": "Church",
+              "points": 26,
+              "alt": [
+                "going to church",
+                "service"
+              ]
+            },
+            {
+              "text": "Sleeping in",
+              "points": 17,
+              "alt": [
+                "sleep late",
+                "stay in bed",
+                "rest"
+              ]
+            },
+            {
+              "text": "Family visiting",
+              "points": 13,
+              "alt": [
+                "family come over",
+                "visitors",
+                "company"
+              ]
+            },
+            {
+              "text": "Doing the washing",
+              "points": 8,
+              "alt": [
+                "laundry",
+                "washing",
+                "clothes"
+              ]
+            }
+          ]
+        },
+        {
+          "prompt": "Name something people always take a picture of",
+          "answers": [
+            {
+              "text": "Their food",
+              "points": 30,
+              "alt": [
+                "food",
+                "dinner",
+                "the plate",
+                "meal"
+              ]
+            },
+            {
+              "text": "Themselves",
+              "points": 25,
+              "alt": [
+                "selfie",
+                "selfies",
+                "themself",
+                "their face"
+              ]
+            },
+            {
+              "text": "The sunset",
+              "points": 18,
+              "alt": [
+                "sunset",
+                "sky",
+                "sunrise"
+              ]
+            },
+            {
+              "text": "Their pet",
+              "points": 15,
+              "alt": [
+                "pet",
+                "dog",
+                "cat",
+                "puppy"
+              ]
+            },
+            {
+              "text": "Family and friends",
+              "points": 10,
+              "alt": [
+                "family",
+                "friends",
+                "group photo",
+                "the children"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fastMoney": {
+    "target": 200,
+    "questions": [
+      {
+        "prompt": "Name something you do first thing when you wake up",
+        "answers": [
+          {
+            "text": "Check the phone",
+            "points": 34,
+            "alt": [
+              "phone",
+              "look at phone",
+              "scroll"
+            ]
+          },
+          {
+            "text": "Brush teeth",
+            "points": 26,
+            "alt": [
+              "teeth",
+              "brush"
+            ]
+          },
+          {
+            "text": "Use the bathroom",
+            "points": 18,
+            "alt": [
+              "bathroom",
+              "toilet"
+            ]
+          },
+          {
+            "text": "Stretch",
+            "points": 12,
+            "alt": [
+              "stretching"
+            ]
+          },
+          {
+            "text": "Make coffee or tea",
+            "points": 10,
+            "alt": [
+              "coffee",
+              "tea",
+              "hot drink"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "Name a place you would rather be right now",
+        "answers": [
+          {
+            "text": "The beach",
+            "points": 38,
+            "alt": [
+              "beach",
+              "sea",
+              "seaside"
+            ]
+          },
+          {
+            "text": "Home in bed",
+            "points": 27,
+            "alt": [
+              "bed",
+              "home",
+              "sleeping"
+            ]
+          },
+          {
+            "text": "On holiday abroad",
+            "points": 16,
+            "alt": [
+              "abroad",
+              "vacation",
+              "holiday",
+              "foreign"
+            ]
+          },
+          {
+            "text": "A restaurant",
+            "points": 11,
+            "alt": [
+              "restaurant",
+              "out eating"
+            ]
+          },
+          {
+            "text": "The river",
+            "points": 8,
+            "alt": [
+              "river",
+              "waterfall"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "Name something people spend too much money on",
+        "answers": [
+          {
+            "text": "Food and takeout",
+            "points": 31,
+            "alt": [
+              "food",
+              "takeout",
+              "eating out",
+              "delivery"
+            ]
+          },
+          {
+            "text": "Clothes",
+            "points": 24,
+            "alt": [
+              "clothing",
+              "shoes",
+              "fashion"
+            ]
+          },
+          {
+            "text": "Their phone",
+            "points": 17,
+            "alt": [
+              "phone",
+              "new phone",
+              "data"
+            ]
+          },
+          {
+            "text": "Their car",
+            "points": 15,
+            "alt": [
+              "car",
+              "gas",
+              "fuel"
+            ]
+          },
+          {
+            "text": "Subscriptions",
+            "points": 9,
+            "alt": [
+              "streaming",
+              "netflix",
+              "subscription"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "Name something you would buy first if you won the lottery",
+        "answers": [
+          {
+            "text": "A house",
+            "points": 35,
+            "alt": [
+              "house",
+              "home",
+              "land",
+              "property"
+            ]
+          },
+          {
+            "text": "A car",
+            "points": 27,
+            "alt": [
+              "car",
+              "new car",
+              "vehicle",
+              "truck"
+            ]
+          },
+          {
+            "text": "A holiday abroad",
+            "points": 16,
+            "alt": [
+              "travel",
+              "vacation",
+              "holiday",
+              "trip",
+              "cruise"
+            ]
+          },
+          {
+            "text": "Jewellery",
+            "points": 12,
+            "alt": [
+              "jewelry",
+              "jewellery",
+              "chain",
+              "ring",
+              "watch"
+            ]
+          },
+          {
+            "text": "Something for family",
+            "points": 10,
+            "alt": [
+              "family",
+              "help family",
+              "gift for mother",
+              "give away"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt": "Name something that is always cold in an office",
+        "answers": [
+          {
+            "text": "The air conditioning",
+            "points": 40,
+            "alt": [
+              "ac",
+              "a c",
+              "air con",
+              "aircon",
+              "the ac"
+            ]
+          },
+          {
+            "text": "Your hands",
+            "points": 22,
+            "alt": [
+              "hands",
+              "fingers"
+            ]
+          },
+          {
+            "text": "Your feet",
+            "points": 16,
+            "alt": [
+              "feet",
+              "toes"
+            ]
+          },
+          {
+            "text": "The coffee",
+            "points": 12,
+            "alt": [
+              "coffee",
+              "your drink"
+            ]
+          },
+          {
+            "text": "The meeting room",
+            "points": 7,
+            "alt": [
+              "meeting room",
+              "conference room",
+              "boardroom"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

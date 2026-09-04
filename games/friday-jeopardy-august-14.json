@@ -1,0 +1,200 @@
+{
+  "title": "Friday Jeopardy — August 14th (Game 1)",
+  "timers": {
+    "buzz": 8,
+    "answer": 10
+  },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "JAMAICAN HOUSEHOLD STAPLES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which heavy black pot does every Jamaican kitchen have sitting on the stove?",
+              "answer": "The Dutch pot, or dutchie"
+            },
+            {
+              "value": 400,
+              "clue": "Which home remedy gets boiled up as the cure for every ailment going?",
+              "answer": "Bush tea"
+            },
+            {
+              "value": 600,
+              "clue": "Which appliance gets left playing when nobody is home, so that it sounds like somebody is?",
+              "answer": "The radio"
+            },
+            {
+              "value": 800,
+              "clue": "Which spicy sauce sits on almost every Jamaican table beside the ketchup?",
+              "answer": "Pickapeppa sauce"
+            },
+            {
+              "value": 1000,
+              "clue": "Which white root is grated and squeezed to make bammy?",
+              "answer": "Cassava"
+            }
+          ]
+        },
+        {
+          "name": "ANIMALS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What is a baby kangaroo called?",
+              "answer": "A joey"
+            },
+            {
+              "value": 400,
+              "clue": "Which is the fastest land animal?",
+              "answer": "The cheetah"
+            },
+            {
+              "value": 600,
+              "clue": "Which bird is famous for copying human speech?",
+              "answer": "The parrot"
+            },
+            {
+              "value": 800,
+              "clue": "What is a group of crows called?",
+              "answer": "A murder"
+            },
+            {
+              "value": 1000,
+              "clue": "Which animal has fingerprints so close to a human's that they can be confused at a crime scene?",
+              "answer": "The koala"
+            }
+          ]
+        },
+        {
+          "name": "SPORTS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "In which sport does a score of zero get called 'love'?",
+              "answer": "Tennis"
+            },
+            {
+              "value": 400,
+              "clue": "Which city hosted the 2024 Summer Olympics?",
+              "answer": "Paris"
+            },
+            {
+              "value": 600,
+              "clue": "How many rings are on the Olympic flag?",
+              "answer": "Five rings"
+            },
+            {
+              "value": 800,
+              "clue": "In cricket, what do you call it when a bowler takes three wickets with three balls in a row?",
+              "answer": "A hat-trick"
+            },
+            {
+              "value": 1000,
+              "clue": "In which sport would you hit a shuttlecock over a net?",
+              "answer": "Badminton"
+            }
+          ]
+        },
+        {
+          "name": "IN THE KITCHEN",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which ingredient makes bread rise?",
+              "answer": "Yeast"
+            },
+            {
+              "value": 400,
+              "clue": "At what temperature does water boil, in Celsius?",
+              "answer": "100 degrees"
+            },
+            {
+              "value": 600,
+              "clue": "What do you call cooking something slowly in liquid kept just below boiling?",
+              "answer": "Simmering"
+            },
+            {
+              "value": 800,
+              "clue": "What is the name for cutting vegetables into thin matchstick strips?",
+              "answer": "Julienne",
+              "dailyDouble": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which acid gives lemons and limes their sour taste?",
+              "answer": "Citric acid"
+            }
+          ]
+        },
+        {
+          "name": "SPACE",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What is the name of our galaxy?",
+              "answer": "The Milky Way"
+            },
+            {
+              "value": 400,
+              "clue": "Which planet is best known for its rings?",
+              "answer": "Saturn"
+            },
+            {
+              "value": 600,
+              "clue": "Which planet is closest in size to Earth?",
+              "answer": "Venus"
+            },
+            {
+              "value": 800,
+              "clue": "What do we call a star that suddenly explodes?",
+              "answer": "A supernova"
+            },
+            {
+              "value": 1000,
+              "clue": "What do we call a region in space where gravity is so strong that not even light can escape?",
+              "answer": "A black hole"
+            }
+          ]
+        },
+        {
+          "name": "WORD PLAY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "How many letters are in the English alphabet?",
+              "answer": "Twenty-six"
+            },
+            {
+              "value": 400,
+              "clue": "What do you call a word that means the opposite of another?",
+              "answer": "An antonym"
+            },
+            {
+              "value": 600,
+              "clue": "What do you call a word that reads the same forwards and backwards?",
+              "answer": "A palindrome"
+            },
+            {
+              "value": 800,
+              "clue": "What do you call a word that imitates a sound, like 'buzz' or 'crash'?",
+              "answer": "Onomatopoeia"
+            },
+            {
+              "value": 1000,
+              "clue": "What do you call an exaggeration nobody takes literally, like 'I have told you a million times'?",
+              "answer": "Hyperbole"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "JAMAICAN LANDMARKS",
+    "clue": "Dunn's River Falls sits in which Jamaican parish?",
+    "answer": "St. Ann"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "title": "Sample Game Night",
+  "playedAt": "2026-08-07T02:18:37.019Z",
+  "durationMinutes": 2,
+  "playedInTeams": false,
+  "finalScores": [
+    {
+      "name": "Ama",
+      "score": 1000
+    },
+    {
+      "name": "Nigger monkey",
+      "score": -1000
+    }
+  ],
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "CARIBBEAN GEOGRAPHY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This is the capital city of Jamaica",
+              "answer": "Kingston",
+              "used": false
+            },
+            {
+              "value": 400,
+              "clue": "The Caribbean's largest island by area",
+              "answer": "Cuba",
+              "used": false
+            },
+            {
+              "value": 600,
+              "clue": "This twin-island nation's capital is Port of Spain",
+              "answer": "Trinidad and Tobago",
+              "used": false
+            },
+            {
+              "value": 800,
+              "clue": "Two countries share the island of Hispaniola: name both",
+              "answer": "Haiti and the Dominican Republic",
+              "used": false
+            },
+            {
+              "value": 1000,
+              "clue": "This Jamaican mountain range gives its name to a famous coffee",
+              "answer": "The Blue Mountains",
+              "used": false
+            }
+          ]
+        },
+        {
+          "name": "NUMBERS AT WORK",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "The percentage of calls answered within a target time",
+              "answer": "Service level",
+              "used": false
+            },
+            {
+              "value": 400,
+              "clue": "Callers who hang up before reaching an agent",
+              "answer": "Abandon rate",
+              "used": false
+            },
+            {
+              "value": 600,
+              "clue": "Talk time plus after-call work equals this",
+              "answer": "Average handle time",
+              "used": false
+            },
+            {
+              "value": 800,
+              "clue": "The staffing formula named for a Danish telephone engineer",
+              "answer": "Erlang C",
+              "used": false
+            },
+            {
+              "value": 1000,
+              "clue": "Scheduled hours divided by required hours, as a percentage",
+              "answer": "Schedule efficiency (or shrinkage-adjusted coverage)",
+              "used": false
+            }
+          ]
+        },
+        {
+          "name": "MOVIE TAGLINES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "In space, no one can hear you scream",
+              "answer": "Alien",
+              "used": false
+            },
+            {
+              "value": 400,
+              "clue": "Just when you thought it was safe to go back in the water",
+              "answer": "Jaws 2",
+              "used": false
+            },
+            {
+              "value": 600,
+              "clue": "Why so serious?",
+              "answer": "The Dark Knight",
+              "used": false
+            },
+            {
+              "value": 800,
+              "clue": "Escape or die trying",
+              "answer": "The Shawshank Redemption",
+              "used": false
+            },
+            {
+              "value": 1000,
+              "clue": "Collide with destiny",
+              "answer": "Titanic",
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "FOOD & DRINK",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Jamaica's national fruit, served with saltfish",
+              "answer": "Ackee",
+              "used": false
+            },
+            {
+              "value": 400,
+              "clue": "The spice blend at the heart of jerk seasoning uses this fiery pepper",
+              "answer": "Scotch bonnet",
+              "used": false
+            },
+            {
+              "value": 600,
+              "clue": "This fermented soybean paste is the base of a common Japanese soup",
+              "answer": "Miso",
+              "used": false
+            },
+            {
+              "value": 800,
+              "clue": "Espresso topped with an equal amount of steamed milk foam",
+              "answer": "Cappuccino",
+              "used": false
+            },
+            {
+              "value": 1000,
+              "clue": "This bread's name means 'twice baked' in Italian",
+              "answer": "Biscotti",
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "TECH ODDS & ENDS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "The 'S' in HTTPS stands for this",
+              "answer": "Secure",
+              "used": false
+            },
+            {
+              "value": 400,
+              "clue": "This company's first product was the Apple I",
+              "answer": "Apple",
+              "used": false
+            },
+            {
+              "value": 600,
+              "clue": "A QR code is short for this kind of response code",
+              "answer": "Quick Response",
+              "used": false
+            },
+            {
+              "value": 800,
+              "clue": "This protocol keeps a browser and server talking in real time without reloading",
+              "answer": "WebSockets",
+              "used": false
+            },
+            {
+              "value": 1000,
+              "clue": "The 1s and 0s of a byte number this many bits",
+              "answer": "Eight",
+              "used": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "WORLD RECORDS",
+    "clue": "This is the only sea on Earth with no coastline, bounded instead by ocean currents",
+    "answer": "The Sargasso Sea"
+  }
+}

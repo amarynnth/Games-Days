@@ -1,0 +1,268 @@
+{
+  "title": "Friday Jeopardy — August 7th (Game 2)",
+  "playedAt": "2026-08-12T22:59:40.474Z",
+  "durationMinutes": 23,
+  "playedInTeams": false,
+  "finalScores": [
+    {
+      "name": "Sahai",
+      "score": 5800
+    },
+    {
+      "name": "Fat nigga",
+      "score": 5200
+    }
+  ],
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "JAMAICAN ENGLISH",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "If bad luck follows you everywhere you go, what do people say you are?",
+              "answer": "Salt",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "What word means lewd, and is used for conduct, lyrics or conversation that goes well beyond what the norm expects?",
+              "answer": "Slack",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "What do you call the neighbour who is too nosy and has an opinion on business that is not theirs?",
+              "answer": "Fast, pronounced 'fass'",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "If a child looks exactly like their father, what do we say the child does?",
+              "answer": "Favour him",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "What do you call somebody newly rich that the district says did not come up through the ranks?",
+              "answer": "A hurry-come-up",
+              "dailyDouble": false,
+              "used": false
+            }
+          ]
+        },
+        {
+          "name": "THE NEW MILLENNIUM",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which Nokia phone from 2000 became famous for being almost impossible to break?",
+              "answer": "The Nokia 3310",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Which Apple device launched in 2001 promising a thousand songs in your pocket?",
+              "answer": "The iPod",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Which boy band sang 'Bye Bye Bye' in 2000?",
+              "answer": "NSYNC",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Which website did Mark Zuckerberg launch from his dorm room in 2004?",
+              "answer": "Facebook",
+              "dailyDouble": true,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which computer bug had the whole world nervous on New Year's Eve 1999?",
+              "answer": "Y2K, the millennium bug",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "SOCIAL STUDIES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "In which year did Jamaica gain independence?",
+              "answer": "1962",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "What are the three colours of the Jamaican flag?",
+              "answer": "Black, green and gold",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "How many parishes does Jamaica have?",
+              "answer": "Fourteen",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Who was Jamaica's first Prime Minister after independence?",
+              "answer": "Alexander Bustamante",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which National Hero led the Windward Maroons against the British?",
+              "answer": "Nanny of the Maroons",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "CARTOONS & FAIRYTALES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which fairytale character loses a glass slipper at midnight?",
+              "answer": "Cinderella",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Which cartoon family lives in the town of Springfield?",
+              "answer": "The Simpsons",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Which little girl helps herself to the porridge of three bears?",
+              "answer": "Goldilocks",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "What happens to Pinocchio's nose whenever he tells a lie?",
+              "answer": "It grows longer",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "In Beauty and the Beast, what is the name of the candlestick?",
+              "answer": "Lumière",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "FAMOUS NAMES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Who painted the Mona Lisa?",
+              "answer": "Leonardo da Vinci",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Who wrote Romeo and Juliet?",
+              "answer": "William Shakespeare",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "Which scientist came up with the theory of relativity?",
+              "answer": "Albert Einstein",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Which South African leader spent 27 years in prison before becoming president?",
+              "answer": "Nelson Mandela",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which Jamaican-born nurse cared for wounded soldiers during the Crimean War?",
+              "answer": "Mary Seacole",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        },
+        {
+          "name": "HOLLYWOOD",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which 1997 film starred Leonardo DiCaprio and Kate Winslet aboard a sinking ship?",
+              "answer": "Titanic",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 400,
+              "clue": "Which actor plays Iron Man in the Marvel films?",
+              "answer": "Robert Downey Jr.",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 600,
+              "clue": "What is the name of the gold statuette handed out at Hollywood's biggest awards night?",
+              "answer": "The Oscar",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 800,
+              "clue": "Which animation studio has a hopping desk lamp in its logo?",
+              "answer": "Pixar",
+              "dailyDouble": false,
+              "used": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which 1967 film starred Warren Beatty and Faye Dunaway as a pair of Depression-era bank robbers?",
+              "answer": "Bonnie and Clyde",
+              "dailyDouble": false,
+              "used": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "THE CALENDAR",
+    "clue": "Which is the only month of the year that can pass without a single full moon?",
+    "answer": "February"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Unemployed Activities (Brainrot Edition)",
+  "timers": { "buzz": 8, "answer": 10 },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "BRAINROT",
+          "clues": [
+            { "value": 200, "clue": "What one-syllable word means charm, or the ability to attract somebody?", "answer": "Rizz" },
+            { "value": 400, "clue": "Which US state gets used online as shorthand for anywhere strange or cursed?", "answer": "Ohio" },
+            { "value": 600, "clue": "Which Greek letter describes the lone-wolf type who does not follow the crowd?", "answer": "Sigma" },
+            { "value": 800, "clue": "What word means delusional, usually about somebody you have no chance with?", "answer": "Delulu" },
+            { "value": 1000, "clue": "What is the name of the jaw-sharpening tongue technique the internet will not stop talking about?", "answer": "Mewing" }
+          ]
+        },
+        {
+          "name": "POP CULTURE",
+          "clues": [
+            { "value": 200, "clue": "Which singer's fans are known as the Beyhive?", "answer": "Beyoncé" },
+            { "value": 400, "clue": "Which streaming service made Squid Game?", "answer": "Netflix" },
+            { "value": 600, "clue": "Which app is known for short vertical videos and a 'For You' page?", "answer": "TikTok" },
+            {
+              "value": 800,
+              "clue": "Which singer released the album 'Midnights' in 2022?",
+              "answer": "Taylor Swift",
+              "dailyDouble": true
+            },
+            { "value": 1000, "clue": "Which two films released on the same day in 2023 gave us the word 'Barbenheimer'?", "answer": "Barbie and Oppenheimer" }
+          ]
+        },
+        {
+          "name": "MUSIC VIDEOS",
+          "clues": [
+            { "value": 200, "clue": "Which Michael Jackson video features a graveyard full of dancing zombies?", "answer": "Thriller" },
+            { "value": 400, "clue": "Which platform did music videos move to after MTV stopped playing them?", "answer": "YouTube" },
+            { "value": 600, "clue": "Which Jamaican artist had a global hit with 'Temperature'?", "answer": "Sean Paul" },
+            { "value": 800, "clue": "Which girl group's 'Wannabe' video was filmed in one continuous take?", "answer": "The Spice Girls" },
+            { "value": 1000, "clue": "Which song's video was the first on YouTube to reach a billion views?", "answer": "Gangnam Style" }
+          ]
+        },
+        {
+          "name": "SNACK RUN",
+          "clues": [
+            { "value": 200, "clue": "Which fast food chain has a clown for a mascot?", "answer": "McDonald's" },
+            { "value": 400, "clue": "What are the chewy balls at the bottom of bubble tea made from?", "answer": "Tapioca" },
+            { "value": 600, "clue": "Which chocolate bar's slogan tells you to have a break?", "answer": "Kit Kat" },
+            { "value": 800, "clue": "Which country invented instant noodles?", "answer": "Japan" },
+            { "value": 1000, "clue": "Which snack food was originally sold as a cure for indigestion?", "answer": "The graham cracker" }
+          ]
+        },
+        {
+          "name": "STAYING IN",
+          "clues": [
+            { "value": 200, "clue": "What do you call watching several episodes of a show back to back?", "answer": "Binge-watching" },
+            { "value": 400, "clue": "In Monopoly, how much do you collect each time you pass Go?", "answer": "$200" },
+            { "value": 600, "clue": "In Uno, which card forces the next player to pick up four?", "answer": "The wild draw four" },
+            { "value": 800, "clue": "What is the term for the restlessness that comes from being stuck indoors too long?", "answer": "Cabin fever" },
+            { "value": 1000, "clue": "How many squares are on a chessboard?", "answer": "64" }
+          ]
+        },
+        {
+          "name": "ODDS & ENDS",
+          "clues": [
+            { "value": 200, "clue": "How many days are in a leap year?", "answer": "366" },
+            { "value": 400, "clue": "Which food is said to never spoil?", "answer": "Honey" },
+            { "value": 600, "clue": "Which planet is closest to the sun?", "answer": "Mercury" },
+            { "value": 800, "clue": "How many keys are on a standard piano?", "answer": "88" },
+            { "value": 1000, "clue": "Which is the only letter that does not appear in the name of any US state?", "answer": "Q" }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "THE INTERNET",
+    "clue": "What was the very first video uploaded to YouTube called?",
+    "answer": "Me at the zoo"
+  }
+}
